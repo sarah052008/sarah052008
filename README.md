@@ -27,5 +27,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="abderrahimsarah12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mllekhemissimaroua@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="abderrahimsarah12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abderrahimsarah12@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
